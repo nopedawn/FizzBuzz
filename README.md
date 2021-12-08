@@ -1,5 +1,4 @@
 # FizzBuzz
 
-Language:
-- Java
+- Language: Java
 - Program: FizzBuzz
